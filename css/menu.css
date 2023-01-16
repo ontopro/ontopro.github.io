@@ -18,6 +18,7 @@
     width: 100%;
     padding: 10px 20px;
     margin: 0;
+    font-family: "Raleway";
     font-weight: 300;
     text-transform: uppercase;
     line-height: 22px;
@@ -68,6 +69,7 @@
         line-height: 23px;
         color: rgba(255, 255, 255, 0.6);
         background: none;
+        font-family: "Raleway";
         font-weight: 300;
         text-transform: uppercase;
     }
