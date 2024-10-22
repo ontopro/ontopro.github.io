@@ -1,0 +1,98 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: ontopro.services.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="ontopro.services_files/md-default0.js" type="text/javascript"></script><script src="ontopro.services_files/md-default1.js" type="text/javascript"></script>
+
+# Services
+
+---
+
+
+
+```{=html}
+<big><p class="quote" id="services-quote">Healthcare is a complex domain requiring <b>deep domain knowledge</b>, a <b>methodical approach</b> to understand and solve problems, and a <b>principled multi-faceted strategy</b> involving an umbrella of traditional and AI approaches (ML/DL, NLP, LLMs, Expert systems, rule engines, etc.) on a <b>foundation of semantic data management and ontological thinking</b>!</p></big>
+```
+
+
+
+---
+<br>
+
+
+
+## Clinical Data Management 
+
+
+```{=html}
+<div class="flex-container" id="strategy"><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/biomedical-data.jpg" /><p class="caption" id="image-c">Helping organizations make better decisions using <em>ontological thinging.</em></p></div><div class="flex-text" id="st-note"><p><strong>Strategy</strong></p><hr /><p>How does one create a resilient data strategy when no one really knows fully how the data being generated now will be used in the future? <em>Ontological thinking</em> holds the key to approaching uncertainity and complexity in a systematic manner to establish <em>governance, processes, standards and frameworks for semantically normalized and unambigous data.</em></p><hr /><p><em>Good data is better than more data.</em></p></div></div>
+```
+
+
+
+## Terminology/Ontology
+
+
+```{=html}
+<div class="flex-container" id="strategy"><div class="flex-text" id="st-note"><p><strong>Operationalize terminology standards</strong></p><hr /><p><em>Code systems, Value sets and Cross maps</em> provide the means to creating semantically normalized and interoperable data (i.e. good data). These include standards such as SNOMED CT, LOINC, ICD, CPT, RXNORM, etc. as well value sets from VSAC and HL7. Cross maps are used to translate custom models to standard codes.</p><hr /><p><em>Terminology server/service does the hard work, so everyone doesn't have to.</em></p></div><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/triad-of-terminology.jpg" /><p class="image-c caption">Triad of terminology.</p></div></div>
+```
+
+
+
+## Clinical Decision Support (CDS)
+
+
+```{=html}
+<div class="flex-container" id="strategy"><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/cpg-on-fhir-with-terminology.jpg" /><p class="caption" id="image-c"><em>Terminology</em> at the core of Clinical Decision Support</p></div><div class="flex-text" id="st-note"><p><strong>CPG-on-FHIR</strong></p><hr /><p><em>Clinical guidelines are the highest form medical knowledge!</em> The <a href="https://hl7.org/fhir/uv/cpg/">CPG-on-FHIR</a> framework brings a knowledge first approach to translating textual guidelines into actionable insights and plans at the point-of-care in real-time and individualized to each patient.</p><hr /><p><em>CDS is AI in action.</em></p></div></div>
+```
+
+
+
+## AI
+
+
+```{=html}
+<div class="flex-container" id="strategy"><div class="flex-text" id="st-note"><p><strong>Pragmatic AI with Ontologies</strong></p><hr /><p>The field of AI is evolving at breakneck speed but still issues of reliability and accuracy remain. Trying to use <em>quantity to overcome quality issues</em> with data is not going to work.</p><p>A principled approach to data management with ontologies, open data standards and knowledge graphs provides for an evolutionary architecture and a resilient infrastructure for iterative model training and real-world testing for clinical validation.</p><hr /><p><em>Computable knowledge in the era of Generative AI</em></p></div><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/ontology.jpg" /><p class="image-c caption">...</p></div></div>
+```
+
+
+
+<br> 
+
+
+
+```{=html}
+<div><hr /><big><p style="background:#F5F3FF;color:#0F5F3F;font-size:1.3rem;font-style:italic;text-align:center;">Combining medical knowledge, terminology expertise and informatics for clinical data integration and interoperability, improving patient care and accelerating clinical research!</p></big></div>
+```
+
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```

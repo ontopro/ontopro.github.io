@@ -1,0 +1,12 @@
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+  revealjs: {theme: solarized, navigation-mode: vertical, transition: slide, background-transition: fade, incremental: true}
+project: {type: book}
+book:
+  chapters:
+  - part: Ontopro
+    chapters: [index.qmd, ontopro.services.qmd, ontopro.work.qmd, ontopro.publications.qmd, ontopro.team.qmd]
+  title: Ontopro, LLC

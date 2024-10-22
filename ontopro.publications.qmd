@@ -1,0 +1,88 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: ontopro.publications.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="ontopro.publications_files/md-default0.js" type="text/javascript"></script><script src="ontopro.publications_files/md-default1.js" type="text/javascript"></script>
+
+# Publications
+
+
+## Conferences & Workshops
+
+* Organizer, [ICBO 2022: International Conference on Biomedical Ontology](https://icbo-conference.github.io/icbo2022/) – Sept. 2022, Ann Arbor, MI
+* Organizer, [Workshop on COVID-19 Ontologies (WCO 2020)](https://github.com/CIDO-ontology/WCO/) – Oct 2020
+* Organizer, Natural Language Processing Workshop – AMIA 2016, 2017
+* Organizer, Vaccine and Drug Ontology Studies (VDOS 2015) – July 2015, ICBO 2015, Lisbon, Portugal
+* Co-chair, [5th International Conference on Biomedical Ontologies (ICBO'14)](https://icbo-conference.github.io/) – October 2014, Houston, TX
+* Health 2.0 code-a-thon – Mentor – March 2013, Houston, TX
+* [Building Ontologies for Clinical and Translational Research](http://ontology.buffalo.edu/11/Tutorial_Atlanta_2011.htm) – Tutorial and Workshop – June 2011, Emory University, Atlanta
+
+
+## Invited talks
+
+* _Design in the era of Big Data (and AI)_ – April 2019, EPFL/Campus Biotech, Geneva
+* _ESMO2018: Real World Evidence & Quality Improvement Workshop_ – October 2018, Novartis, Munich
+* _An Ontologist journey into CDISC land_ – November 2014, FDA workshop
+* _Big Data for Personalized Medicine_ – May 2013, Houston Technology Center
+* _SMART Content for Health: harnessing the power of medical taxonomy to build clinically intelligent applications_ – June 2012, American Society for Microbiology
+* _Panel discussion: Making Semantics Work_ – May 2012, Society for Scholarly Publishing Annual Meeting
+* _Clinical Data Integration: Challenges & Solutions_ – July 2011, Southeast Regional NBS & Genetics Collaborative (SERC/SERGG) Annual Meeting
+* _Application Ontologies_ – December 2010, Cleveland Clinic
+* _Developing an Application Ontology for the Sleep Domain_ – April 2010, National Center for Biomedical Ontology
+
+
+## Publications
+
+* [Ontology in Healthcare: a Survey](https://datadaytexas.com/2023/sessions#arabandi) - presentation in Jan 2023, Data Day Texas 2023
+* [Clinical Decision Support, AI, and Ontology](https://www.ncorwiki.buffalo.edu/index.php/Eighth_Clinical_and_Translational_Science_Ontology_Workshop) – March 2022, 8th CTSOntology Workshop
+* [CIDO: The Community-based Coronavirus Infectious Disease Ontology](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-022-00279-z) – ICBO 2020
+* [Work Domain Ontology](http://ncor.buffalo.edu/CTSA/Sottara.pdf) – presentation in Sept. 2017 at the Clinical & Translation Science Ontology annual workshop, Buffalo, NY
+* [Summarizing and Visualizing Structural Changes during the Evolution of Biomedical Ontologies Using a Diff Abstraction Network](http://www.ncbi.nlm.nih.gov/pubmed/26048076) – J Biomed Inform. 2015 Aug;56:127-44. doi:10.1016/j.jbi.2015.05.018. Epub 2015 Jun 3. PubMed PMID: 26048076; PMCID: PMC4532611
+* [Biomedical imaging ontologies: A survey and proposal for future work](http://www.ncbi.nlm.nih.gov/pubmed/26167381) – J Pathol Inform. 2015 Jun 23;6:37. doi: 10.4103/2153-3539.159214. eCollection 2015. PubMed PMID: 26167381
+* [Auditing Redundant Import in Reuse of a Top Level Ontology for the Drug Discovery Investigations Ontology](http://ceur-ws.org/Vol-1061/Paper4_vdos2013.pdf) – ICBO 2013, Montreal, Canada
+* [ONSTR: The Ontology for Newborn Screening Follow-up and Translational Research](http://ceur-ws.org/Vol-1060/icbo2013_submission_47.pdf) – ICBO 2013, Montreal, Canada
+* [Choosing the Granularity of Abstraction Networks for Orientation and Quality Assurance of the Sleep Domain Ontology](http://ceur-ws.org/Vol-1060/icbo2013_submission_23.pdf) – ICBO 2013, Montreal, Canada
+* [Proceedings of the ICBO2013 Workshops: International Workshop on Vaccine and Drug Ontology Studies (VDOS 2013)](http://ceur-ws.org/Vol-1061)
+* [ClinicalKey: Terminology driven Semantic Search](http://ceur-ws.org/Vol-897/demo_9.pdf) – demo at ICBO 2012, Graz, Austria
+* [Graph-Based Methods for Discovery Browsing with Semantic Predications](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3243228/) – AMIA Annu Symp Proc. 2011; 2011: 1514–1523. PMCID: PMC3243228
+* [Design patterns for Clinical Application Ontologies](http://semtech2011.semanticweb.com/uploads/handouts/THURS_1010_Arabandi_4073.pdf) – presentation at Semtech 2011, San Francisco
+* [Mapping multi-institution data sources to domain ontology for data federation: the PhysioMIMI approach](http://proceedings.amia.org/16pb4r/16pb4r/1) – 2011 CRI Summit, American Medical Informatics Association, San Francisco
+* [Segmenting and Merging Domain-specific Ontology Modules for Clinical Informatics](http://dl.acm.org/citation.cfm?id=1804757) – paper at 2010 Formal Ontology in Information Systems (FOIS), Toronto, Canada
+* [VISAGE: A Query Interface for Clinical Research](http://proceedings.amia.org/1g9el2/1g9el2/1) – AMIA Summits Transl Sci Proc. 2010 Mar 1;2010:76-80. PubMed PMID: 21347154; PubMed Central PMCID:PMC3041531
+* [Developing a Sleep Domain Ontology](http://proceedings.amia.org/1g9gh4/) – poster at 2010 AMIA TBI/CRI Summit, San Francisco
+* Developing a Sleep Domain Ontology – presentation in Sept. 2009 at the SSFW09 Workshop, Milan, Italy
+* The Infective Endocarditis Ontology and SemanticDB – presentation in Sept. 2008 at the Infectious Disease Ontology [IDO] 2008 Workshop, Buffalo, NY
+* Reasoning with clinical exam and laboratory findings: The Cleveland experience – presentation in Sept. 2008 at the Ontology of Clinical Phenotypes Workshop, UT Southwestern Medical Center, Dallas
+* [Semantic Integration of Clinical Data for Outcomes Research and Reporting](https://ontopro.com/docs/semanticdb-poster.pdf) – poster at 2007 AMIA Annual Conference
+* Infectious Disease Ontology [IDO] workshop – Sept. 2007, Cold Springs Harbor Laboratory, Cold Springs Hbr., NY
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```

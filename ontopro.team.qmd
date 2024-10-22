@@ -1,0 +1,58 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: ontopro.team.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="ontopro.team_files/md-default0.js" type="text/javascript"></script><script src="ontopro.team_files/md-default1.js" type="text/javascript"></script>
+
+# Team
+
+
+## Sivaram Arabandi, MD, MS
+
+Sivaram Arabandi is a surgeon and an informaticist working at the intersection of clinical ontologies, semantic web and healthcare AI. He started ONTOPRO in 2013 and provides expertise in clinical data standards such as SNOMED, LOINC, RxNorm and ICD; FHIR, CQL and CPG standards, building and using semantic models, text mining applications, as well as data integration and interoperability strategy to leverage structured and unstructured data for advanced big data analytics.
+
+Most recently, he was involved with Optum Health’s Clinical Decision Support (CDS) project to operationalize published clinical guidelines using ontologies and open data standards such as FHIR and CPG for point-of-care decision support. He lead the development of a new Enterprise Terminology platform to operationalize code systems, value sets and cross maps and make them accessible at a FHIR API endpoint. Prior to this, Sivaram worked on Mayo Clinic’s *MayoExpertAdvisor (MEA)* knowledge delivery tool and Knowledge Enriched Data (KED) projects integrating longitudinal clinical data spanning multiple years to decades. He was the Director for Smart Content Strategy at Elsevier and headed Clinical Terminology services responsible for developing EMMeT (Elsevier Merged Medical Taxonomy) at the core of the *ClinicalKey* product. He was a visiting scientist at the National Library of Medicine (NLM), co-chair of the 5th International Conference on Biomedical Ontology ([ICBO’14](https://ceur-ws.org/Vol-1327/)) and organizer of [ICBO’22](https://icbo-conference.github.io/icbo2022/). He collaborates with other researchers on the development of open clinical ontologies in areas of general medicine ([OGMS](https://github.com/OGMS/ogms)), infectious diseases ([IDO](http://infectiousdiseaseontology.org/page/Main_Page)), newborn screening ([ONSTR](http://code.google.com/p/onstr/)) and sleep medicine ([SDO](http://bioportal.bioontology.org/ontologies/1651)).
+
+Sivaram served on the *External Review Board* for Mayo Clinic’s Knowledge Content Management System (KCMS) initiative, was a *Scientific Advisor* for Emory University’s Newborn Screening Follow-up Data Integration Collaborative (NBSDC) and is a contributor to the [CPG-on-FHIR 1.0 specification](https://build.fhir.org/ig/HL7/cqf-recommendations/index.html) for Clinical Practice Guidelines.
+
+Sivaram lives in Houston, and in his spare time likes to dance, practices Aikido, and enjoys road trips.
+
+
+
+## Who we work with
+
+Here are some of the amazing people Sivaram works with:
+
+* **Dominique Pahud**
+* [**Ron Tayyab**](https://www.rontayyab.com/) - UI/UX
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```

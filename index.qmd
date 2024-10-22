@@ -1,0 +1,70 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: index.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<img alt="Ontopro logo" src="notebooks/ontopro/images/ontopro-tagline-2.png" style="display:block;margin-left:auto;margin-right:auto;width:600px;" />
+```
+
+
+
+# About
+
+
+```{=html}
+<big><p class="quote" id="about-quote">"Accelerating healthcare's transition to trustworthy knowledge"</p></big>
+```
+
+
+
+## Mission
+
+To provide clinical domain knowledge and expertise in ontological approaches for semantically connecting data using terminologies and natural language processing to enable knowledge-driven solutions in healthcare. Since anticipating future data usage is difficult, and technologies change rapidly, Ontopro’s approach helps clients design their data strategy to *liberate data and future proof* it.
+
+
+
+## Leadership
+
+
+```{=html}
+<div style="background:#F5F3FF;padding:10px;"><div style="display:inline-block;vertical-align:middle;"><img src="notebooks/ontopro/images/SivaramArabandi.jpg" width="200px" /></div><div style="display:inline-block;margin:20px;vertical-align:middle;width:300px;"><p><strong>Sivaram Arabandi, MD, MS</strong></p><hr /><p>Sivaram is Physician-informaticist with 20+ years of ontology, knowledge management and clinical AI 
+experience across large hospitals, universities and industry... </p><hr /><a href="https://www.linkedin.com/in/sivaramarabandi">https://www.linkedin.com/in/sivaramarabandi/</a></div></div>
+```
+
+
+
+## Contact
+*sivaram* at *ontopro* dot *com*
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```

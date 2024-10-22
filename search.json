@@ -1,0 +1,288 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ontopro, LLC",
+    "section": "",
+    "text": "1 About",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "Ontopro, LLC",
+    "section": "1.1 Mission",
+    "text": "1.1 Mission\nTo provide clinical domain knowledge and expertise in ontological approaches for semantically connecting data using terminologies and natural language processing to enable knowledge-driven solutions in healthcare. Since anticipating future data usage is difficult, and technologies change rapidly, Ontopro’s approach helps clients design their data strategy to liberate data and future proof it.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Ontopro, LLC",
+    "section": "1.2 Leadership",
+    "text": "1.2 Leadership\nSivaram Arabandi, MD, MSSivaram is Physician-informaticist with 20+ years of ontology, knowledge management and clinical AI \nexperience across large hospitals, universities and industry... https://www.linkedin.com/in/sivaramarabandi/",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ontopro, LLC",
+    "section": "1.3 Contact",
+    "text": "1.3 Contact\nsivaram at ontopro dot com",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.services.html",
+    "href": "ontopro.services.html",
+    "title": "2  Services",
+    "section": "",
+    "text": "2.1 Clinical Data Management",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Services</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.services.html#clinical-data-management",
+    "href": "ontopro.services.html#clinical-data-management",
+    "title": "2  Services",
+    "section": "",
+    "text": "Helping organizations make better decisions using ontological thinging.StrategyHow does one create a resilient data strategy when no one really knows fully how the data being generated now will be used in the future? Ontological thinking holds the key to approaching uncertainity and complexity in a systematic manner to establish governance, processes, standards and frameworks for semantically normalized and unambigous data.Good data is better than more data.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Services</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.services.html#terminologyontology",
+    "href": "ontopro.services.html#terminologyontology",
+    "title": "2  Services",
+    "section": "2.2 Terminology/Ontology",
+    "text": "2.2 Terminology/Ontology\nOperationalize terminology standardsCode systems, Value sets and Cross maps provide the means to creating semantically normalized and interoperable data (i.e. good data). These include standards such as SNOMED CT, LOINC, ICD, CPT, RXNORM, etc. as well value sets from VSAC and HL7. Cross maps are used to translate custom models to standard codes.Terminology server/service does the hard work, so everyone doesn't have to.Triad of terminology.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Services</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.services.html#clinical-decision-support-cds",
+    "href": "ontopro.services.html#clinical-decision-support-cds",
+    "title": "2  Services",
+    "section": "2.3 Clinical Decision Support (CDS)",
+    "text": "2.3 Clinical Decision Support (CDS)\nTerminology at the core of Clinical Decision SupportCPG-on-FHIRClinical guidelines are the highest form medical knowledge! The CPG-on-FHIR framework brings a knowledge first approach to translating textual guidelines into actionable insights and plans at the point-of-care in real-time and individualized to each patient.CDS is AI in action.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Services</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.services.html#ai",
+    "href": "ontopro.services.html#ai",
+    "title": "2  Services",
+    "section": "2.4 AI",
+    "text": "2.4 AI\nPragmatic AI with OntologiesThe field of AI is evolving at breakneck speed but still issues of reliability and accuracy remain. Trying to use quantity to overcome quality issues with data is not going to work.A principled approach to data management with ontologies, open data standards and knowledge graphs provides for an evolutionary architecture and a resilient infrastructure for iterative model training and real-world testing for clinical validation.Computable knowledge in the era of Generative AI...\n\nCombining medical knowledge, terminology expertise and informatics for clinical data integration and interoperability, improving patient care and accelerating clinical research!",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Services</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html",
+    "href": "ontopro.work.html",
+    "title": "3  Who We Serve",
+    "section": "",
+    "text": "3.1 Clients/Partners",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#clientspartners",
+    "href": "ontopro.work.html#clientspartners",
+    "title": "3  Who We Serve",
+    "section": "",
+    "text": "Clients/Partners\n\n\nPrevious Work\n\n\n\n\n\nOptum\nIMO Health\n\n\nMayo Clinic\nElsevier\n\n\neVarient\nCleveland Clinic\n\n\nMaxisIT\nCase Western Reserve University\n\n\nBrainCheck\nNational Library of Medicine (NLM)\n\n\nHealth Language (Wolters Kluwer)\n\n\n\n3 Round Stones",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#data-standards-work",
+    "href": "ontopro.work.html#data-standards-work",
+    "title": "3  Who We Serve",
+    "section": "3.2 Data Standards work",
+    "text": "3.2 Data Standards work\n\nCPG-on-FHIR\nOntology for General Medical Science (OGMS)\nSleep Domain Ontology (SDO)\nVital Signs Ontology (VSO)\nOntology for Newborn Screening Translational Research (ONSTR)\nInfectious Disease Ontology (IDO)\nW3C Semantic Web Health Care and Life Sciences Interest Group (HCLS IG)",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#cds-terminology---optum",
+    "href": "ontopro.work.html#cds-terminology---optum",
+    "title": "3  Who We Serve",
+    "section": "3.3 CDS & Terminology - Optum",
+    "text": "3.3 CDS & Terminology - Optum\nOptum is developing a Clinical Decision Support (CDS) platform for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for “CDS” and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR (HL7 CPG-IG STU v1.0) specification, develop Guideline authoring process, and the use of terminologies.   Clinical terminology plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new enterprise-wide Clinical Terminology capability from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm, ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and grew the team to 18 members.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#review-board---mayo-clinic",
+    "href": "ontopro.work.html#review-board---mayo-clinic",
+    "title": "3  Who We Serve",
+    "section": "3.4 Review Board - Mayo Clinic",
+    "text": "3.4 Review Board - Mayo Clinic\nKnowledge Content Management System (KCMS) leverages Mayo’s knowledge and expertise to support teams that generate content for consumers, patients, and providers. As a member of the external review board, interviewed stakeholders and examined data needs, current architecture, delivery pipeline, etc. and provided recommendations on a knowledge management strategy including knowledge architecture, content models & curation, terminology/ontology, and best practices for a changing environment.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#enterprise-data-harmonization---mayo-clinic",
+    "href": "ontopro.work.html#enterprise-data-harmonization---mayo-clinic",
+    "title": "3  Who We Serve",
+    "section": "3.5 Enterprise Data Harmonization - Mayo Clinic",
+    "text": "3.5 Enterprise Data Harmonization - Mayo Clinic\nThe Knowledge Enriched Data (KED) project aims at integrating data from multiple systems with semantic enrichment to support discovery, clinical workflows, decision making and research. Serve as Ontology Expert on overall application of Ontologies and related Knowledge Engineering Strategy for initiatives in the Applied Clinical Informatics Program at Mayo Clinic. Lead the Work Domain Ontology (WDO) development effort, enable Semantic Mark-up (Annotation), ontology support for Information models, and serve as a Biomedical Informatics and Knowledge Discovery expert.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#smart-content---emmet",
+    "href": "ontopro.work.html#smart-content---emmet",
+    "title": "3  Who We Serve",
+    "section": "3.6 Smart Content - EMMeT",
+    "text": "3.6 Smart Content - EMMeT\nSmart Content is content with a high level of structure, created by annotating text with a standardized terminology. ClinicalKey, an innovative new online resource built on Elsevier’s Smart Content, provides searchable journal, book, image and video content tagged to Elsevier Merged Medical Taxonomy (EMMeT). It is designed from the ground up to provide improved access to clinical information, providing comprehensive, trusted clinical answers quickly. As Director for Smart Content Strategy, Sivaram provided cross-functional clinical informatics leadership for emerging technologies and interoperability needs using semantic web architectures and clinical terminologies including SNOMED, RxNORM, MeSH, ICD 9/10, CPT and LOINC. He headed the clinical terminology services responsible for the development of EMMeT and its application across multiple products such as ClinicalKey, CPOE, Clinical Decision Support, EMR integration and Linked Data.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#knowledge-management---adverse-clinical-events",
+    "href": "ontopro.work.html#knowledge-management---adverse-clinical-events",
+    "title": "3  Who We Serve",
+    "section": "3.7 Knowledge Management - Adverse Clinical Events",
+    "text": "3.7 Knowledge Management - Adverse Clinical Events\nA large portion of the patient information is captured in EMRs as narrative text – a format that is not amenable for analysis. As a Visiting Faculty at the National Library of Medicine, NIH, Bethesda, Sivaram’s focus was on research into using Natural Language Processing (NLP) techniques and clinical models such as UMLS and SNOMED-CT for information extraction. The Adverse Clinical Events detection project investigated the use of NLP for extracting clinical information into a structured format for data analysis, clinical decision support, etc.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#multi-institutional-clinical-data-integration---physiomimi",
+    "href": "ontopro.work.html#multi-institutional-clinical-data-integration---physiomimi",
+    "title": "3  Who We Serve",
+    "section": "3.8 Multi-institutional Clinical Data Integration - PhysioMIMI",
+    "text": "3.8 Multi-institutional Clinical Data Integration - PhysioMIMI\nData integration challenges and lack of interoperability are major barriers in the application of biomedical knowledge, with the result that most clinical and translational research is conducted in silos. Sleep Medicine presents a particularly difficult problem relating to the scale of data – each sleep study generates hundreds of megabytes to a gigabyte of data. PhysioMIMI was a NIH funded collaborative project between four CTSA institutions/hospitals to research and develop a federated data integration system supporting clinical and translational research in the area of Sleep Medicine. It would enable researchers to access data from multiple databases using a web based architecture. Sivaram managed the multi-institutional project and trained cross-functional teams in using Agile methodology for clinical and translational informatics research. He chaired the technical design and architecture sessions and developed a standards based clinical ontology model for Sleep Medicine (Sleep Domain Ontology) with cross-maps to ICD-9, ICSD, RxNORM and SNOMED to facilitate merger of data silos as well as a guide to drive user interfaces.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#clinical-knowledge-base---semanticdb",
+    "href": "ontopro.work.html#clinical-knowledge-base---semanticdb",
+    "title": "3  Who We Serve",
+    "section": "3.9 Clinical Knowledge Base - SemanticDB",
+    "text": "3.9 Clinical Knowledge Base - SemanticDB\nCleveland Clinic Heart and Vascular Institute’s SemanticDB project is a pioneering research effort harnessing Semantic Web technologies to integrate data from multiple clinical data stores for clinical research and outcomes studies. Sivaram was part of a multi-disciplinary collaborative team and he co-led the effort introducing Agile methodology for the successful release of the project in 2008. He supported the development of the domain ontology model for Cardiovascular surgery, authored a Core Data Elements model for Cardiology and Cardiothoracic Surgery with integration to standardized terminologies such as SNOMED-CT for ACC and STS quality measures and outcomes reporting.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.work.html#emr-clinical-content",
+    "href": "ontopro.work.html#emr-clinical-content",
+    "title": "3  Who We Serve",
+    "section": "3.10 EMR Clinical Content",
+    "text": "3.10 EMR Clinical Content\nNoteworthy Medical Systems developed a highly customized and user friendly EMR system. However, maintaining the customized Clinical Content solutions for clients was challenging and needed a reusable and scalable solution. Sivaram lead the re-architecture and development of a new Standard Clinical Content Core data model for ease of configuration and customization resulting in a 60% saving in implementation costs for new clients and improved the Time to Market by over 50%. Implemented reporting enhancements and utilized SNOMED CT and other clinical models for clinical knowledge development and integration. Built up the Medical Knowledge development team and trained developers in both the clinical and technical aspects of content development.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.publications.html",
+    "href": "ontopro.publications.html",
+    "title": "4  Publications",
+    "section": "",
+    "text": "4.1 Conferences & Workshops",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publications</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.publications.html#conferences-workshops",
+    "href": "ontopro.publications.html#conferences-workshops",
+    "title": "4  Publications",
+    "section": "",
+    "text": "Organizer, ICBO 2022: International Conference on Biomedical Ontology – Sept. 2022, Ann Arbor, MI\nOrganizer, Workshop on COVID-19 Ontologies (WCO 2020) – Oct 2020\nOrganizer, Natural Language Processing Workshop – AMIA 2016, 2017\nOrganizer, Vaccine and Drug Ontology Studies (VDOS 2015) – July 2015, ICBO 2015, Lisbon, Portugal\nCo-chair, 5th International Conference on Biomedical Ontologies (ICBO’14) – October 2014, Houston, TX\nHealth 2.0 code-a-thon – Mentor – March 2013, Houston, TX\nBuilding Ontologies for Clinical and Translational Research – Tutorial and Workshop – June 2011, Emory University, Atlanta",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publications</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.publications.html#invited-talks",
+    "href": "ontopro.publications.html#invited-talks",
+    "title": "4  Publications",
+    "section": "4.2 Invited talks",
+    "text": "4.2 Invited talks\n\nDesign in the era of Big Data (and AI) – April 2019, EPFL/Campus Biotech, Geneva\nESMO2018: Real World Evidence & Quality Improvement Workshop – October 2018, Novartis, Munich\nAn Ontologist journey into CDISC land – November 2014, FDA workshop\nBig Data for Personalized Medicine – May 2013, Houston Technology Center\nSMART Content for Health: harnessing the power of medical taxonomy to build clinically intelligent applications – June 2012, American Society for Microbiology\nPanel discussion: Making Semantics Work – May 2012, Society for Scholarly Publishing Annual Meeting\nClinical Data Integration: Challenges & Solutions – July 2011, Southeast Regional NBS & Genetics Collaborative (SERC/SERGG) Annual Meeting\nApplication Ontologies – December 2010, Cleveland Clinic\nDeveloping an Application Ontology for the Sleep Domain – April 2010, National Center for Biomedical Ontology",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publications</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.publications.html#publications",
+    "href": "ontopro.publications.html#publications",
+    "title": "4  Publications",
+    "section": "4.3 Publications",
+    "text": "4.3 Publications\n\nOntology in Healthcare: a Survey - presentation in Jan 2023, Data Day Texas 2023\nClinical Decision Support, AI, and Ontology – March 2022, 8th CTSOntology Workshop\nCIDO: The Community-based Coronavirus Infectious Disease Ontology – ICBO 2020\nWork Domain Ontology – presentation in Sept. 2017 at the Clinical & Translation Science Ontology annual workshop, Buffalo, NY\nSummarizing and Visualizing Structural Changes during the Evolution of Biomedical Ontologies Using a Diff Abstraction Network – J Biomed Inform. 2015 Aug;56:127-44. doi:10.1016/j.jbi.2015.05.018. Epub 2015 Jun 3. PubMed PMID: 26048076; PMCID: PMC4532611\nBiomedical imaging ontologies: A survey and proposal for future work – J Pathol Inform. 2015 Jun 23;6:37. doi: 10.4103/2153-3539.159214. eCollection 2015. PubMed PMID: 26167381\nAuditing Redundant Import in Reuse of a Top Level Ontology for the Drug Discovery Investigations Ontology – ICBO 2013, Montreal, Canada\nONSTR: The Ontology for Newborn Screening Follow-up and Translational Research – ICBO 2013, Montreal, Canada\nChoosing the Granularity of Abstraction Networks for Orientation and Quality Assurance of the Sleep Domain Ontology – ICBO 2013, Montreal, Canada\nProceedings of the ICBO2013 Workshops: International Workshop on Vaccine and Drug Ontology Studies (VDOS 2013)\nClinicalKey: Terminology driven Semantic Search – demo at ICBO 2012, Graz, Austria\nGraph-Based Methods for Discovery Browsing with Semantic Predications – AMIA Annu Symp Proc. 2011; 2011: 1514–1523. PMCID: PMC3243228\nDesign patterns for Clinical Application Ontologies – presentation at Semtech 2011, San Francisco\nMapping multi-institution data sources to domain ontology for data federation: the PhysioMIMI approach – 2011 CRI Summit, American Medical Informatics Association, San Francisco\nSegmenting and Merging Domain-specific Ontology Modules for Clinical Informatics – paper at 2010 Formal Ontology in Information Systems (FOIS), Toronto, Canada\nVISAGE: A Query Interface for Clinical Research – AMIA Summits Transl Sci Proc. 2010 Mar 1;2010:76-80. PubMed PMID: 21347154; PubMed Central PMCID:PMC3041531\nDeveloping a Sleep Domain Ontology – poster at 2010 AMIA TBI/CRI Summit, San Francisco\nDeveloping a Sleep Domain Ontology – presentation in Sept. 2009 at the SSFW09 Workshop, Milan, Italy\nThe Infective Endocarditis Ontology and SemanticDB – presentation in Sept. 2008 at the Infectious Disease Ontology [IDO] 2008 Workshop, Buffalo, NY\nReasoning with clinical exam and laboratory findings: The Cleveland experience – presentation in Sept. 2008 at the Ontology of Clinical Phenotypes Workshop, UT Southwestern Medical Center, Dallas\nSemantic Integration of Clinical Data for Outcomes Research and Reporting – poster at 2007 AMIA Annual Conference\nInfectious Disease Ontology [IDO] workshop – Sept. 2007, Cold Springs Harbor Laboratory, Cold Springs Hbr., NY",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Publications</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.team.html",
+    "href": "ontopro.team.html",
+    "title": "5  Team",
+    "section": "",
+    "text": "5.1 Sivaram Arabandi, MD, MS\nSivaram Arabandi is a surgeon and an informaticist working at the intersection of clinical ontologies, semantic web and healthcare AI. He started ONTOPRO in 2013 and provides expertise in clinical data standards such as SNOMED, LOINC, RxNorm and ICD; FHIR, CQL and CPG standards, building and using semantic models, text mining applications, as well as data integration and interoperability strategy to leverage structured and unstructured data for advanced big data analytics.\nMost recently, he was involved with Optum Health’s Clinical Decision Support (CDS) project to operationalize published clinical guidelines using ontologies and open data standards such as FHIR and CPG for point-of-care decision support. He lead the development of a new Enterprise Terminology platform to operationalize code systems, value sets and cross maps and make them accessible at a FHIR API endpoint. Prior to this, Sivaram worked on Mayo Clinic’s MayoExpertAdvisor (MEA) knowledge delivery tool and Knowledge Enriched Data (KED) projects integrating longitudinal clinical data spanning multiple years to decades. He was the Director for Smart Content Strategy at Elsevier and headed Clinical Terminology services responsible for developing EMMeT (Elsevier Merged Medical Taxonomy) at the core of the ClinicalKey product. He was a visiting scientist at the National Library of Medicine (NLM), co-chair of the 5th International Conference on Biomedical Ontology (ICBO’14) and organizer of ICBO’22. He collaborates with other researchers on the development of open clinical ontologies in areas of general medicine (OGMS), infectious diseases (IDO), newborn screening (ONSTR) and sleep medicine (SDO).\nSivaram served on the External Review Board for Mayo Clinic’s Knowledge Content Management System (KCMS) initiative, was a Scientific Advisor for Emory University’s Newborn Screening Follow-up Data Integration Collaborative (NBSDC) and is a contributor to the CPG-on-FHIR 1.0 specification for Clinical Practice Guidelines.\nSivaram lives in Houston, and in his spare time likes to dance, practices Aikido, and enjoys road trips.",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Team</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.team.html#who-we-work-with",
+    "href": "ontopro.team.html#who-we-work-with",
+    "title": "5  Team",
+    "section": "5.2 Who we work with",
+    "text": "5.2 Who we work with\nHere are some of the amazing people Sivaram works with:\n\nDominique Pahud\nRon Tayyab - UI/UX",
+    "crumbs": [
+      "Ontopro",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Team</span>"
+    ]
+  }
+]

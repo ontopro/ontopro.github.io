@@ -1,0 +1,105 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: ontopro.work.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="ontopro.work_files/md-default0.js" type="text/javascript"></script><script src="ontopro.work_files/md-default1.js" type="text/javascript"></script>
+
+# Who We Serve
+
+
+```{=html}
+<big><p style="background:#d4ebe9;color:#0F5F3F;display:block;font-style:italic;margin-left:auto;margin-right:auto;text-align:center;width:600px;">DATA is just data, often unconnected and unused in silos!</p></big>
+```
+
+
+Ontopro works with both academia and industry, large enterprises as well as startups, to evaluate clinical data needs; transform transactional data in proprietary formats to clinical standards such as FHIR and SNOMED, LOINC, RxNORM, ICD, etc; clinical trials data to CDISC standards; and build/extend Common Data Element models to meet clinical needs.
+
+
+
+## Clients/Partners 
+
+::: {.clay-table}
+
+```{=html}
+<table class="table table-hover table-responsive"><thead><tr><th><div style="background-color:#ccaabb;text-align:center;width:300px;"><big>Clients/Partners</big></div></th><th><div style="background-color:#aabbcc;text-align:center;width:300px;"><big>Previous Work</big></div></th></tr></thead><tbody><tr><td>Optum</td><td>IMO Health</td></tr><tr><td>Mayo Clinic</td><td>Elsevier</td></tr><tr><td>eVarient</td><td>Cleveland Clinic</td></tr><tr><td>MaxisIT</td><td>Case Western Reserve University</td></tr><tr><td>BrainCheck</td><td>National Library of Medicine (NLM)</td></tr><tr><td>Health Language (Wolters Kluwer)</td><td></td></tr><tr><td>3 Round Stones</td><td></td></tr></tbody></table>
+```
+
+:::
+
+
+
+## Data Standards work
+
+* [CPG-on-FHIR](https://build.fhir.org/ig/HL7/cqf-recommendations/index.html)
+* [Ontology for General Medical Science (OGMS)](https://github.com/OGMS/ogms)
+* [Sleep Domain Ontology (SDO)](http://purl.bioontology.org/ontology/SDO)
+* [Vital Signs Ontology (VSO)](http://code.google.com/p/vital-sign-ontology/)
+* [Ontology for Newborn Screening Translational Research (ONSTR)](http://code.google.com/p/onstr/)
+* [Infectious Disease Ontology (IDO)](http://infectiousdiseaseontology.org/)
+* [W3C Semantic Web Health Care and Life Sciences Interest Group (HCLS IG)](http://www.w3.org/blog/hcls/)
+
+
+## CDS & Terminology - Optum
+Optum is developing a **Clinical Decision Support (CDS) platform** for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for "CDS" and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR ([HL7 CPG-IG STU v1.0](https://build.fhir.org/ig/HL7/cqf-recommendations/index.html)) specification, develop Guideline authoring process, and the use of terminologies.
+<br>
+<br>
+**Clinical terminology** plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new enterprise-wide Clinical Terminology capability from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm, ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and grew the team to 18 members. 
+
+
+## Review Board - Mayo Clinic 
+*Knowledge Content Management System (KCMS)* leverages Mayo’s knowledge and expertise to support teams that generate content for consumers, patients, and providers. As a member of the external review board, interviewed stakeholders and examined data needs, current architecture, delivery pipeline, etc. and provided recommendations on a knowledge management strategy including knowledge architecture, content models & curation, terminology/ontology, and best practices for a changing environment.
+
+
+## Enterprise Data Harmonization - Mayo Clinic
+The *Knowledge Enriched Data (KED)* project aims at integrating data from multiple systems with semantic enrichment to support discovery, clinical workflows, decision making and research. Serve as Ontology Expert on overall application of Ontologies and related Knowledge Engineering Strategy for initiatives in the Applied Clinical Informatics Program at Mayo Clinic. Lead the Work Domain Ontology (WDO) development effort, enable Semantic Mark-up (Annotation), ontology support for Information models, and serve as a Biomedical Informatics and Knowledge Discovery expert.
+
+
+## Smart Content - EMMeT
+Smart Content is content with a high level of structure, created by annotating text with a standardized terminology. ClinicalKey, an innovative new online resource built on Elsevier’s Smart Content, provides searchable journal, book, image and video content tagged to [Elsevier Merged Medical Taxonomy (EMMeT)](https://ceur-ws.org/Vol-897/demo_9.pdf). It is designed from the ground up to provide improved access to clinical information, providing comprehensive, trusted clinical answers quickly. As Director for Smart Content Strategy, Sivaram provided cross-functional clinical informatics leadership for emerging technologies and interoperability needs using semantic web architectures and clinical terminologies including SNOMED, RxNORM, MeSH, ICD 9/10, CPT and LOINC. He headed the clinical terminology services responsible for the development of EMMeT and its application across multiple products such as ClinicalKey, CPOE, Clinical Decision Support, EMR integration and Linked Data.
+
+
+##  Knowledge Management - Adverse Clinical Events
+A large portion of the patient information is captured in EMRs as narrative text – a format that is not amenable for analysis. As a Visiting Faculty at the National Library of Medicine, NIH, Bethesda, Sivaram’s focus was on research into using Natural Language Processing (NLP) techniques and clinical models such as UMLS and SNOMED-CT for information extraction. The Adverse Clinical Events detection project investigated the use of NLP for extracting clinical information into a structured format for data analysis, clinical decision support, etc.
+
+
+## Multi-institutional Clinical Data Integration - PhysioMIMI
+Data integration challenges and lack of interoperability are major barriers in the application of biomedical knowledge, with the result that most clinical and translational research is conducted in silos. Sleep Medicine presents a particularly difficult problem relating to the scale of data – each sleep study generates hundreds of megabytes to a gigabyte of data. PhysioMIMI was a NIH funded collaborative project between four CTSA institutions/hospitals to research and develop a federated data integration system supporting clinical and translational research in the area of Sleep Medicine. It would enable researchers to access data from multiple databases using a web based architecture. Sivaram managed the multi-institutional project and trained cross-functional teams in using Agile methodology for clinical and translational informatics research. He chaired the technical design and architecture sessions and developed a standards based clinical ontology model for Sleep Medicine ([Sleep Domain Ontology](http://bioportal.bioontology.org/ontologies/1651)) with cross-maps to ICD-9, ICSD, RxNORM and SNOMED to facilitate merger of data silos as well as a guide to drive user interfaces.
+
+
+## Clinical Knowledge Base - SemanticDB
+Cleveland Clinic Heart and Vascular Institute’s SemanticDB project is a pioneering research effort harnessing Semantic Web technologies to integrate data from multiple clinical data stores for clinical research and outcomes studies. Sivaram was part of a multi-disciplinary collaborative team and he co-led the effort introducing Agile methodology for the successful release of the project in 2008. He supported the development of the domain ontology model for Cardiovascular surgery, authored a Core Data Elements model for Cardiology and Cardiothoracic Surgery with integration to standardized terminologies such as SNOMED-CT for ACC and STS quality measures and outcomes reporting.
+
+
+## EMR Clinical Content
+Noteworthy Medical Systems developed a highly customized and user friendly EMR system. However, maintaining the customized Clinical Content solutions for clients was challenging and needed a reusable and scalable solution. Sivaram lead the re-architecture and development of a new Standard Clinical Content Core data model for ease of configuration and customization resulting in a 60% saving in implementation costs for new clients and improved the Time to Market by over 50%. Implemented reporting enhancements and utilized SNOMED CT and other clinical models for clinical knowledge development and integration. Built up the Medical Knowledge development team and trained developers in both the clinical and technical aspects of content development.
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```
