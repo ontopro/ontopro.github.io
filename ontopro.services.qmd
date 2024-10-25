@@ -54,7 +54,7 @@ include-in-header:
 
 
 ```{=html}
-<div class="flex-container" id="strategy"><div class="flex-text" id="st-note"><p><strong>Operationalize terminology standards</strong></p><hr /><p><em>Code systems, Value sets and Cross maps</em> provide the means to creating semantically normalized and interoperable data (i.e. good data). These include standards such as SNOMED CT, LOINC, ICD, CPT, RXNORM, etc. as well value sets from VSAC and HL7. Cross maps are used to translate custom models to standard codes.</p><hr /><p><em>Terminology server/service does the hard work, so everyone doesn't have to.</em></p></div><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/triad-of-terminology.jpg" /><p class="image-c caption">Triad of terminology.</p></div></div>
+<div class="flex-container" id="strategy"><div class="flex-text" id="st-note"><p><strong>Operationalize terminology standards</strong></p><hr /><p><em>Code systems, Value sets and Cross maps</em> provide the means to creating semantically normalized and interoperable data (i.e. good data). These include standards such as SNOMED CT, LOINC, ICD, CPT, RXNORM, etc. as well value sets from VSAC and HL7. Cross maps are used to translate custom models to standard codes.</p><hr /><p><em>Terminology server/service does the hard work, so everyone doesn't have to.</em></p></div><div class="flex-image" id="st-image"><img class="fit-image" id="image-r" src="notebooks/ontopro/images/triad-of-terminology-2.png" /><p class="image-c caption">Triad of terminology.</p></div></div>
 ```
 
 

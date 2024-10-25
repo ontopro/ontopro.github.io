@@ -1,9 +1,11 @@
 @import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&text=0123456789&display=swap');
 // @import url('https://ntk148v.github.io/iosevkawebfont/latest/iosevka.css');
-
+// @import url(https://fonts.googleapis.com/css?family=Roboto&text=0123456789);
 
 /*-- scss:rules --*/
 .table {width:auto}
@@ -12,8 +14,10 @@ code {font-family: 'Fira Code Medium', monospace;}
 
 .ontopro-image img {max-width: 100%}
 
-html * {
-  font-family: "Montserrat", sans-serif;
+body {
+  // font-family: "Montserrat", sans-serif;
+  // font-family: "Inconsolata", "Raleway", sans-serif;
+  font-family: "Poppins", sans-serif;
   // font-family: "Source Sans 3", sans-serif; 
   // font-family: "Inconsolata", monospace !important; 
   // font-family: "Iosevka Web", monospace;
@@ -21,6 +25,10 @@ html * {
 /*  font-weight: 400;
   font-style: normal; */
   font-variation-settings: "wdth" 100; 
+}
+
+h1, h2, h3, h4 {
+  font-family: "Raleway", sans-serif;
 }
 
 p { font-size: 1.1rem;} 
