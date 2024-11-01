@@ -53,12 +53,14 @@ Wanted to continue the momentum from my recent hike and **exercise** more regula
 ## October 2024 -->
 
 ### October
-  > reading more, writing often
+  > *reading more, writing often*
+
 I had not been doing much reading or writing lately. Life gets in the way - at least that was what I was telling myself! Decided to break out of this and my commitment was to read *1 book every month*, and write more regularly... an article a month? This will be tested in the months to come, but I did read a book - [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._UlW5C6CSd2RaJ2ISglTO2liPb_Nz95nc_C8nn9CZ2KjDSSX56x_MxA8wPC88mvGfE3UML6E_8jBieXgw-3cb3EDIdNVtXhddrDzZjyOjKQjLUjj3ihJdxfMJIqGUyas2nWvpqHMVvPEja2WiOB1jEuyvK7z1J0uodzHTfOAwcu6TyPfEx7s_M8cDxXf_ylgcGCXk5oZV8wTwsrGoI1al1luD7tlR1hbBB954MHokh0.75sSEVJPd-JnMsk9ssflY8eFZWpB97Ow54Q70BGN6kc&qid=1730397283&sr=8-1). With regards to writing, I have been using OneNote for a long time and last year switched to [Obsidian](https://obsidian.md/) and really liked the simplicity of having plain text notes. Plus the plugin ecosystem for Obsidian is amazing and allows for most of the functionality of OneNote and then some. But I wanted to have a place where I could publish some stuff. It was time to redo my website. Decided to use [Clay](https://scicloj.github.io/clay/) - a Clojure tool for data visualization and literate programming . The website is still a work in progress and hopefully I will get to do some data analytics stuff. 
 
 
 ### Next up - November
-  > become a morning person again 
+  > *become a morning person again*
+
 I used to be a morning person. Getting up at 4 am and putting in a couple of hours of study-time with a fresh mind was super useful, especially during medical school.  This changed to 6 am as I got older. But lately I had slipped into a 7:30 to 8 am wake up times and sometimes later - a result of working from home and not having any fixed office hours. Yes, my dogs decided to sleep-in too! Somehow this didn't feel good. *I am a morning person!* I have no problem sleeping 7-8 hours so the trick is going to be to *hit the bed by 10 pm* AND *stay away from all gadgets* - phone, laptop, TV, ... reading a book for a bit, I think I can allow. 
 
 **Book**: started reading [Musashi's Book of Five Rings: The Definitive Interpertation of Miyomoto Musashi's Classic Book of Strategy by Stephen F. Kaufman | Goodreads](https://www.goodreads.com/book/show/16475406-musashi-s-book-of-five-rings)
@@ -70,14 +72,14 @@ I have a few other habits I want to work on in the coming months - still thinkin
 
 
 ### December
-  > swimming
+  > *swimming*
 
 I will be traveling quite a bit, so will have to see how it goes. 
 
 
 ### January
 
-  > full keto again
+  > *full keto again*
 
 
 
