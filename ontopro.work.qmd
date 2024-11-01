@@ -41,7 +41,7 @@ Ontopro works with both academia and industry, large enterprises as well as star
 ::: {.clay-table}
 
 ```{=html}
-<table class="table table-hover table-responsive"><thead><tr><th><div style="background-color:#ccaabb;text-align:center;width:300px;"><big>Clients/Partners</big></div></th><th><div style="background-color:#aabbcc;text-align:center;width:300px;"><big>Previous Work</big></div></th></tr></thead><tbody><tr><td>Optum</td><td>IMO Health</td></tr><tr><td>Mayo Clinic</td><td>Elsevier</td></tr><tr><td>eVarient</td><td>Cleveland Clinic</td></tr><tr><td>MaxisIT</td><td>Case Western Reserve University</td></tr><tr><td>BrainCheck</td><td>National Library of Medicine (NLM)</td></tr><tr><td>Health Language (Wolters Kluwer)</td><td></td></tr><tr><td>3 Round Stones</td><td></td></tr></tbody></table>
+<table class="table table-hover table-responsive"><thead><tr><th><div style="background-color:#ccaabb;text-align:center;width:300px;"><big>Clients/Partners</big></div></th><th><div style="background-color:#aabbcc;text-align:center;width:300px;"><big>Previous Work</big></div></th></tr></thead><tbody><tr><td>Optum</td><td>NCQA</td></tr><tr><td>Mayo Clinic</td><td>IMO Health</td></tr><tr><td>eVarient</td><td>Elsevier</td></tr><tr><td>MaxisIT</td><td>Cleveland Clinic</td></tr><tr><td>BrainCheck</td><td>Case Western Reserve University</td></tr><tr><td>Health Language (Wolters Kluwer)</td><td>National Library of Medicine (NLM)</td></tr><tr><td>3 Round Stones</td><td></td></tr></tbody></table>
 ```
 
 :::
@@ -60,10 +60,10 @@ Ontopro works with both academia and industry, large enterprises as well as star
 
 
 ## CDS & Terminology - Optum
-Optum is developing a **Clinical Decision Support (CDS) platform** for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for "CDS" and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR ([HL7 CPG-IG STU v1.0](https://build.fhir.org/ig/HL7/cqf-recommendations/index.html)) specification, develop Guideline authoring process, and the use of terminologies.
+Optum is developing a **Clinical Decision Support (CDS) platform** for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for "CDS" and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR ([HL7 CPG-IG STU v1.0](https://build.fhir.org/ig/HL7/cqf-recommendations/index.html)) specification, develop Guideline authoring process, use of terminologies and using AI with inbox task management for prescription renewals.
 <br>
 <br>
-**Clinical terminology** plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new enterprise-wide Clinical Terminology capability from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm, ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and grew the team to 18 members. 
+**Clinical terminology** plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new *enterprise-wide Clinical Terminology capability* from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm), controlled vocabularies (ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and the use of ontologies with AI, and grew the team to 18 members. 
 
 
 ## Review Board - Mayo Clinic 

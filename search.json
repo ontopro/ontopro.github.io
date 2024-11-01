@@ -114,7 +114,7 @@
     "href": "ontopro.work.html#clientspartners",
     "title": "3  Who We Serve",
     "section": "",
-    "text": "Clients/Partners\n\n\nPrevious Work\n\n\n\n\n\nOptum\nIMO Health\n\n\nMayo Clinic\nElsevier\n\n\neVarient\nCleveland Clinic\n\n\nMaxisIT\nCase Western Reserve University\n\n\nBrainCheck\nNational Library of Medicine (NLM)\n\n\nHealth Language (Wolters Kluwer)\n\n\n\n3 Round Stones",
+    "text": "Clients/Partners\n\n\nPrevious Work\n\n\n\n\n\nOptum\nNCQA\n\n\nMayo Clinic\nIMO Health\n\n\neVarient\nElsevier\n\n\nMaxisIT\nCleveland Clinic\n\n\nBrainCheck\nCase Western Reserve University\n\n\nHealth Language (Wolters Kluwer)\nNational Library of Medicine (NLM)\n\n\n3 Round Stones",
     "crumbs": [
       "Ontopro",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
@@ -136,7 +136,7 @@
     "href": "ontopro.work.html#cds-terminology---optum",
     "title": "3  Who We Serve",
     "section": "3.3 CDS & Terminology - Optum",
-    "text": "3.3 CDS & Terminology - Optum\nOptum is developing a Clinical Decision Support (CDS) platform for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for “CDS” and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR (HL7 CPG-IG STU v1.0) specification, develop Guideline authoring process, and the use of terminologies.   Clinical terminology plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new enterprise-wide Clinical Terminology capability from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm, ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and grew the team to 18 members.",
+    "text": "3.3 CDS & Terminology - Optum\nOptum is developing a Clinical Decision Support (CDS) platform for integrating with EHRs and providing point-of-care decision support. Serving as an expert to incorporate Real World clinical needs for “CDS” and develop a strategy for creating a Clinical Knowledge Engineering Lifecycle Environment and Knowledge Delivery Platform, adopt open data standards and CPG-on-FHIR (HL7 CPG-IG STU v1.0) specification, develop Guideline authoring process, use of terminologies and using AI with inbox task management for prescription renewals.   Clinical terminology plays a mission-critical role in building integrated Healthcare Knowledge platforms & applications. Towards this, I headed a Terminology services initiative building a brand-new enterprise-wide Clinical Terminology capability from ground up to operationalize ontologies (SNOMED, LOINC, RxNorm), controlled vocabularies (ICD, CPT, etc.), value sets & cross-maps using Semantic Web frameworks and providing a FHIR API & tools for use in CDS, claims processing and other enterprise needs. Developed the long-term product roadmap, GTM strategy, knowledge architecture, established governance model for terminology assets, provided ontology training and the use of ontologies with AI, and grew the team to 18 members.",
     "crumbs": [
       "Ontopro",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who We Serve</span>"
@@ -268,7 +268,7 @@
     "href": "ontopro.team.html",
     "title": "5  Team",
     "section": "",
-    "text": "5.1 Sivaram Arabandi, MD, MS\nSivaram Arabandi is a surgeon and an informaticist working at the intersection of clinical ontologies, semantic web and healthcare AI. He started ONTOPRO in 2013 and provides expertise in clinical data standards such as SNOMED, LOINC, RxNorm and ICD; FHIR, CQL and CPG standards, building and using semantic models, text mining applications, as well as data integration and interoperability strategy to leverage structured and unstructured data for advanced big data analytics.\nMost recently, he was involved with Optum Health’s Clinical Decision Support (CDS) project to operationalize published clinical guidelines using ontologies and open data standards such as FHIR and CPG for point-of-care decision support. He lead the development of a new Enterprise Terminology platform to operationalize code systems, value sets and cross maps and make them accessible at a FHIR API endpoint. Prior to this, Sivaram worked on Mayo Clinic’s MayoExpertAdvisor (MEA) knowledge delivery tool and Knowledge Enriched Data (KED) projects integrating longitudinal clinical data spanning multiple years to decades. He was the Director for Smart Content Strategy at Elsevier and headed Clinical Terminology services responsible for developing EMMeT (Elsevier Merged Medical Taxonomy) at the core of the ClinicalKey product. He was a visiting scientist at the National Library of Medicine (NLM), co-chair of the 5th International Conference on Biomedical Ontology (ICBO’14) and organizer of ICBO’22. He collaborates with other researchers on the development of open clinical ontologies in areas of general medicine (OGMS), infectious diseases (IDO), newborn screening (ONSTR) and sleep medicine (SDO).\nSivaram served on the External Review Board for Mayo Clinic’s Knowledge Content Management System (KCMS) initiative, was a Scientific Advisor for Emory University’s Newborn Screening Follow-up Data Integration Collaborative (NBSDC) and is a contributor to the CPG-on-FHIR 1.0 specification for Clinical Practice Guidelines.\nSivaram lives in Houston, and in his spare time likes to dance, practices Aikido, and enjoys road trips.",
+    "text": "5.1 Sivaram Arabandi, MD, MS\nSivaram Arabandi is a surgeon and an informaticist working at the intersection of clinical ontologies, semantic web and healthcare AI. He started ONTOPRO in 2013 and provides expertise in clinical data standards such as SNOMED, LOINC, RxNorm and ICD; FHIR, CQL and CPG standards, building and using semantic models, text mining applications, as well as data integration and interoperability strategy to leverage structured and unstructured data for advanced big data analytics.\nMost recently, he was involved with Optum Health’s Clinical Decision Support (CDS) project to operationalize published clinical guidelines using ontologies and open data standards such as FHIR and CPG for point-of-care decision support. He lead the development of a new Enterprise Terminology Platform to operationalize code systems, value sets and cross maps and make them accessible at a FHIR API endpoint. Prior to this, Sivaram worked on Mayo Clinic’s MayoExpertAdvisor (MEA) knowledge delivery tool and Knowledge Enriched Data (KED) projects integrating longitudinal clinical data spanning multiple years to decades. He was the Director for Smart Content Strategy at Elsevier and headed Clinical Terminology services responsible for developing EMMeT (Elsevier Merged Medical Taxonomy) at the core of the ClinicalKey product. He was a visiting scientist at the National Library of Medicine (NLM), co-chair of the 5th International Conference on Biomedical Ontology (ICBO’14) and organizer of ICBO’22. He collaborates with other researchers on the development of open clinical ontologies in areas of general medicine (OGMS), infectious diseases (IDO), newborn screening (ONSTR) and sleep medicine (SDO).\nSivaram served on the External Review Board for Mayo Clinic’s Knowledge Content Management System (KCMS) initiative, was a Scientific Advisor for Emory University’s Newborn Screening Follow-up Data Integration Collaborative (NBSDC) and is a contributor to the CPG-on-FHIR 1.0 specification for Clinical Practice Guidelines.\nSivaram lives in Houston, and in his spare time likes to dance, practices Aikido, and enjoys road trips.",
     "crumbs": [
       "Ontopro",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Team</span>"
@@ -283,6 +283,39 @@
     "crumbs": [
       "Ontopro",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Team</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.blog.habit_building.html",
+    "href": "ontopro.blog.habit_building.html",
+    "title": "6  A year of habit-building",
+    "section": "",
+    "text": "6.1 Backlog (July - Sept 2024)",
+    "crumbs": [
+      "Writings",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>A year of habit-building</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.blog.habit_building.html#backlog-july---sept-2024",
+    "href": "ontopro.blog.habit_building.html#backlog-july---sept-2024",
+    "title": "6  A year of habit-building",
+    "section": "",
+    "text": "6.1.1 July\nHurricane Beryl - while dealing with the unexpected situation, it made me realize how unprepared I was. It made me look at all the things that are important - obviously family & friends but also supportive things like utilities, transport, financial aspects, health, etc. And, it is easy to take these later aspects for granted. But the power outage that lasted a whole week laid bare this dependency in a very raw manner. Therefore, during this time, my thoughts were around (if I can describe in a single word) resilience - what it means, what it needs! While we expect efficiency, there is another aspect that is equally important - redundancy! Both are needed for achieving resilience! Planning for this needs to be done ahead of time and it can be costly to implement. It is common to see well intentioned plans gather dust - they need to be re-assessed periodically and adjusted as needed. Hence, this - continuous & iterative planning, is a habit worth forming!\n\n\n6.1.2 August\nThis was a month of travel. Most notable was a trip to Tulsa for an Aikido seminar, a Kashmir Great Lakes Trek and a visit to Hyderabad, India where I met some health care startups and looked at investment opportunities. Also got to meet some of my old medical school classmates.\n\n\n6.1.3 September\nWanted to continue the momentum from my recent hike and exercise more regularly. Luckily, having dogs makes you go on regular walks, so this was an easy one. One small change I did make was to increase the distance - now averaging about 3+ miles every day. Also added some weight training - started with some dumb bells I had lying around. And of course, continuing with Aikido training at the Twin Oaks Aikido dojo.",
+    "crumbs": [
+      "Writings",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>A year of habit-building</span>"
+    ]
+  },
+  {
+    "objectID": "ontopro.blog.habit_building.html#october-2024",
+    "href": "ontopro.blog.habit_building.html#october-2024",
+    "title": "6  A year of habit-building",
+    "section": "6.2 October 2024 –>",
+    "text": "6.2 October 2024 –&gt;\n\n6.2.1 October\n\nreading more, writing often I had not been doing much reading or writing lately. Life gets in the way - at least that was what I was telling myself! Decided to break out of this and my commitment was to read 1 book every month, and write more regularly… an article a month? This will be tested in the months to come, but I did read a book - Range: Why Generalists Triumph in a Specialized World. With regards to writing, I have been using OneNote for a long time and last year switched to Obsidian and really liked the simplicity of having plain text notes. Plus the plugin ecosystem for Obsidian is amazing and allows for most of the functionality of OneNote and then some. But I wanted to have a place where I could publish some stuff. It was time to redo my website. Decided to use Clay - a Clojure tool for data visualization and literate programming . The website is still a work in progress and hopefully I will get to do some data analytics stuff.\n\n\n\n6.2.2 Next up - November\n\nbecome a morning person again I used to be a morning person. Getting up at 4 am and putting in a couple of hours of study-time with a fresh mind was super useful, especially during medical school. This changed to 6 am as I got older. But lately I had slipped into a 7:30 to 8 am wake up times and sometimes later - a result of working from home and not having any fixed office hours. Yes, my dogs decided to sleep-in too! Somehow this didn’t feel good. I am a morning person! I have no problem sleeping 7-8 hours so the trick is going to be to hit the bed by 10 pm AND stay away from all gadgets - phone, laptop, TV, … reading a book for a bit, I think I can allow.\n\nBook: started reading Musashi’s Book of Five Rings: The Definitive Interpertation of Miyomoto Musashi’s Classic Book of Strategy by Stephen F. Kaufman | Goodreads\n… will update here.\nI have a few other habits I want to work on in the coming months - still thinking but here is a tentative list:\n\n\n6.2.3 December\n\nswimming\n\nI will be traveling quite a bit, so will have to see how it goes.\n\n\n6.2.4 January\n\nfull keto again",
+    "crumbs": [
+      "Writings",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>A year of habit-building</span>"
     ]
   }
 ]

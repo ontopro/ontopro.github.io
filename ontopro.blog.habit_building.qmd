@@ -1,0 +1,93 @@
+
+---
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    theme: [journal, notebooks/ontopro/custom.scss]
+    output-file: ontopro.blog.habit_building.html
+    include-in-header: {text: <link rel = "icon" href = "notebooks/ontopro/images/Ontopro-logo-no-text.jpeg" />}
+fontsize: 0.9em
+code-block-background: true
+highlight-style: nord
+include-in-header:
+  text: "\n                        <meta property=\"og:image\" content=\"notebooks/ontopro/images/Ontopro-logo.png\"/>\n                        <meta property=\"og:title\" content=\"Ontopro, LLC\"/>\n                        <meta property=\"og:description\" content=\"Knowledge engineering for Healthcare & Life sciences.\"/>\n                                            "
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="ontopro.blog.habit_building_files/md-default0.js" type="text/javascript"></script><script src="ontopro.blog.habit_building_files/md-default1.js" type="text/javascript"></script>
+
+# A year of habit-building
+  > *Note to self*
+
+I recently completed a long project that was quite challenging and satisfying and it gave me an opportunity to take a break. The plan was to travel and do some self-study i.e. catch up on stuff I had put away for later. But nature had other plans - we got hit by Hurricane Beryl in early July 2024. It caused some property damage and we lost power for a week. Ever so often, nature has a way of showing us how powerless we are despite all the technological progress! 
+
+What a start to my break! Recovering from Beryl took a couple of weeks during which I invested in some power backup with a small gas generator as well as a small off-grid solar + battery system, and learned a lot in the process. Didn't I say I wanted to do some self-study? Well, wish granted! 
+
+In the next couple of months, I traveled and started working on the self-study part. Fast forward to October 2024, I came across a post by [Ximena Vengoechea](https://www.linkedin.com/in/ximenavengoechea/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bpw6SKk2rQ6aHNjnpgdh%2Fxg%3D%3D) written in 2013 called [A year of habit-building](https://ximenavengoechea.tumblr.com/post/71760967594/a-year-of-habit-building) and it got me thinking about what I had been doing in the last few months. While hers was a planned experiment/journey on forming habits, I sort off stumbled into a *'add a new habit every month'* pattern quite accidentally. In any case, taking inspiration from it, I wanted to log it, and share my own journey. I will be posting monthly updates of my own progress [here](ontopro.blog.habit_building.html).
+
+<br>
+
+## Backlog (July - Sept 2024)
+
+### July
+*Hurricane Beryl* - while dealing with the unexpected situation, it made me realize how unprepared I was. It made me look at all the things that are important - obviously family & friends but also supportive things like utilities, transport, financial aspects, health, etc. And, it is easy to take these later aspects for granted. But the power outage that lasted a whole week laid bare this dependency in a very raw manner. Therefore, during this time, my thoughts were around (if I can describe in a single word) **resilience** - what it means, what it needs! While we expect *efficiency*, there is another aspect that is equally important - *redundancy*!  Both are needed for achieving **resilience**! Planning for this needs to be done ahead of time and it can be costly to implement. It is common to see well intentioned plans gather dust - they need to be re-assessed periodically and adjusted as needed. Hence, this - **continuous & iterative planning**, is a *habit worth forming!*
+
+
+### August
+This was a month of **travel**. Most notable was a trip to Tulsa for an Aikido seminar, a [Kashmir Great Lakes Trek](https://indiahikes.com/kashmir-great-lakes) and a visit to Hyderabad, India where I met some health care startups and looked at investment opportunities. Also got to meet some of my old medical school classmates. 
+
+
+### September
+Wanted to continue the momentum from my recent hike and **exercise** more regularly. Luckily, having dogs makes you go on regular walks, so this was an easy one. One small change I did make was to increase the distance - now averaging about 3+ miles every day. Also added some weight training - started with some dumb bells I had lying around. And of course, continuing with Aikido training at the [Twin Oaks Aikido](https://twinoaksaikido.com/) dojo. 
+
+<br>
+
+## October 2024 -->
+
+### October
+  > reading more, writing often
+I had not been doing much reading or writing lately. Life gets in the way - at least that was what I was telling myself! Decided to break out of this and my commitment was to read *1 book every month*, and write more regularly... an article a month? This will be tested in the months to come, but I did read a book - [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9._UlW5C6CSd2RaJ2ISglTO2liPb_Nz95nc_C8nn9CZ2KjDSSX56x_MxA8wPC88mvGfE3UML6E_8jBieXgw-3cb3EDIdNVtXhddrDzZjyOjKQjLUjj3ihJdxfMJIqGUyas2nWvpqHMVvPEja2WiOB1jEuyvK7z1J0uodzHTfOAwcu6TyPfEx7s_M8cDxXf_ylgcGCXk5oZV8wTwsrGoI1al1luD7tlR1hbBB954MHokh0.75sSEVJPd-JnMsk9ssflY8eFZWpB97Ow54Q70BGN6kc&qid=1730397283&sr=8-1). With regards to writing, I have been using OneNote for a long time and last year switched to [Obsidian](https://obsidian.md/) and really liked the simplicity of having plain text notes. Plus the plugin ecosystem for Obsidian is amazing and allows for most of the functionality of OneNote and then some. But I wanted to have a place where I could publish some stuff. It was time to redo my website. Decided to use [Clay](https://scicloj.github.io/clay/) - a Clojure tool for data visualization and literate programming . The website is still a work in progress and hopefully I will get to do some data analytics stuff. 
+
+
+### Next up - November
+  > become a morning person again 
+I used to be a morning person. Getting up at 4 am and putting in a couple of hours of study-time with a fresh mind was super useful, especially during medical school.  This changed to 6 am as I got older. But lately I had slipped into a 7:30 to 8 am wake up times and sometimes later - a result of working from home and not having any fixed office hours. Yes, my dogs decided to sleep-in too! Somehow this didn't feel good. *I am a morning person!* I have no problem sleeping 7-8 hours so the trick is going to be to *hit the bed by 10 pm* AND *stay away from all gadgets* - phone, laptop, TV, ... reading a book for a bit, I think I can allow. 
+
+**Book**: started reading [Musashi's Book of Five Rings: The Definitive Interpertation of Miyomoto Musashi's Classic Book of Strategy by Stephen F. Kaufman | Goodreads](https://www.goodreads.com/book/show/16475406-musashi-s-book-of-five-rings)
+
+... will update here. 
+
+I have a few other habits I want to work on in the coming months - still thinking but here is a tentative list:
+
+
+
+### December
+  > swimming
+
+I will be traveling quite a bit, so will have to see how it goes. 
+
+
+### January
+
+  > full keto again
+
+
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div></div>
+```

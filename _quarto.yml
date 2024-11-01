@@ -9,4 +9,6 @@ book:
   chapters:
   - part: Ontopro
     chapters: [index.qmd, ontopro.services.qmd, ontopro.work.qmd, ontopro.publications.qmd, ontopro.team.qmd]
+  - part: Writings
+    chapters: [ontopro.blog.habit_building.qmd]
   title: Ontopro, LLC
